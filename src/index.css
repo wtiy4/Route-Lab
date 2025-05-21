@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div .card {
+  margin: 10px 50px;
+}
+.card {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  height: 400px;
+  width: 300px;
+  border: 1px solid rgb(92, 90, 90);
+}
+
+.card img {
+  width: 70%;
+}
+.card h3 {
+  margin-top: 10px;
+}
